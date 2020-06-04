@@ -9,8 +9,7 @@ Authors@R:
     person(given = "Óscar",
            family = "Baeza",
            role = c("aut", "cre"),
-           email = "oscar.baeza@uvic.cat",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "oscar.baeza at uvic.cat"
 Description: With this package we aim to generate some functions that will make the calculating of the Fisher combined method easier. The generation of random vectors and all the rest of tasks will be in my GitHub page in the All-R repository.
 License: GNU AGPLv3
 Encoding: UTF-8
